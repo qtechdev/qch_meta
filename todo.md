@@ -1,0 +1,12 @@
+# todo
+- ~better debugging info in qchip~ (qchip/dev/b62123c)
+- differnet operational modes (chip8, schip, etc.)
+- compatability flags (a few quirks with different implementations)
+- support for more number bases (binary, dec)
+- sound!
+- reduce assembly instructions and select based on type (add, addr -> add, etc.)
+- write many tests
+- add support for multiple input files to assembler
+- update qch_dis (support code vs data, header, labels, etc.)
+- streamline development process?
+- script to "install" assembled programs
